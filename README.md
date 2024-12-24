@@ -1,21 +1,40 @@
-Project: CodeANT AI - Assignment
+# Frontend-Codeant
 
-To run this Project Locally: (Run the below commands in your terminal)
-=> git clone https://github.com/PradeepArivazhagan/codeant-assignment.git
-=> npm install
-=> npm run dev
+Frontend-Codeant is a frontend project built with React JS and Tailwind CSS. It aims to create an intuitive and responsive web application interface with modern design practices.
 
 
-In this Project there are two end points:
+## Project Overview
 
-1. http://localhost:5173/
-2. http://localhost:5173/dashboard
+Frontend-Codeant is the user interface for the Codeant application. It utilizes React JS for building components and managing application state, along with Tailwind CSS for responsive and utility-first styling.
 
+The goal of this project is to provide a seamless, interactive, and visually appealing frontend for users, with a focus on accessibility and performance.
 
-Live Link: https://codeant-assignment-pradeep.vercel.app/
+## Technologies Used
 
+- **React JS**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for creating custom designs quickly.
+- **JavaScript**: For client-side scripting and interactivity.
+- **React Router**: For routing and navigation between pages.
+- **FontAwesome / SVGs**: For icons and scalable vector graphics.
 
+## Setup and Installation
 
-Author: Pradeep Arivazhagan
-LinkedIn: https://www.linkedin.com/in/pradeeparivazhagan/
-GitHub: https://github.com/PradeepArivazhagan
+To get started with Frontend-Codeant, clone the repository and install the required dependencies.
+
+### Prerequisites
+
+- Node.js (>= v16.0.0)
+- npm or yarn (for managing dependencies)
+
+### Steps to Set Up
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/Frontend-Codeant.git
+   cd Frontend-Codeant
+2. Run the project :
+   
+   ```bash
+   npm install
+   npm run dev
